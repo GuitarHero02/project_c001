@@ -120,6 +120,19 @@
 			<version>5.0.1.Final</version>
 		</dependency>		
 		
+		<!-- iBatis -->
+		<dependency>
+			<groupId>org.apache.ibatis</groupId>
+			<artifactId>ibatis-sqlmap</artifactId>
+			<version>2.3.4.726</version>
+		</dependency>
+		<!-- MyBatis -->
+		<dependency>
+		  <groupId>org.mybatis</groupId>
+		  <artifactId>mybatis-spring</artifactId>
+		  <version>1.1.0</version>
+		</dependency>
+		
 		<!-- DBMS -->
 		<dependency>
 			<groupId>c3p0</groupId>
